@@ -1,6 +1,11 @@
 from vex import *
 import math
 
+brain = Brain()
+
+motor_l = Motor(Ports.PORT_1)
+motor_r = Motor(Ports.PORT_2)
+
 bg_base = Color(11, 15, 25)
 bg_header = Color(21, 26, 39) 
 bg_card = Color(19, 26, 38)
