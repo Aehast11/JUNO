@@ -11,3 +11,5 @@ Functionality: Please note that this repository currently contains the UI code o
 
 Attribution: You are welcome to use or adapt this design in your own projects; however, we kindly request that you provide appropriate credit to the original creators.
 
+This code was built based on mengchuiru github repo : https://github.com/mengchuiru/VEX-V5-Screen-Simulator
+
